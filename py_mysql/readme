@@ -1,0 +1,3 @@
+create database db_movie charset utf8;
+use db_movie;
+create table tb_movie(id int,rank int,title varchar(20));
